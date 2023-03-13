@@ -17,7 +17,7 @@
             "interpolate",
 			["exponential", 0.5],
 			["zoom"],
-			0,
+			1,
 			"#C5CDD0",
 			15,
 			"#ff0000"
