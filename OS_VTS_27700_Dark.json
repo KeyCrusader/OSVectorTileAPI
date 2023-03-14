@@ -13,15 +13,8 @@
             "id": "background",
             "type": "background",
             "paint": {
-                "background-color": [
-                    "interpolate",
-                    ["exponential", 0.5],
-                    ["zoom"],
-                    0,
-                    "rgb(44,44,44)",
-                    10,
-                    "rgb(100,0,0)"
-                ]
+                "background-color":
+                    "#8cd4f5"
             }
         },
         {
